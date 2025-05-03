@@ -1,5 +1,5 @@
-# CAL
-CAL code
+# Assignments
+School code
 Copy the code 
 if (You want to fail your grades next year ||
 your name is Jerry ||
